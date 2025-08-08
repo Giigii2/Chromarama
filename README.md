@@ -1,6 +1,6 @@
 # 🎨 Chromarama
 
-Chromarama is a free to use color generation app and it is my first solo project and is completely offline-friendly. It was created in Python using TKinter, and Pyinstaller to create the application. I designed this so that people didn't have to spend their hard owned money on some colors. I'm quite excited about the first release and I can hope sooner or later we can make it better.
+Chromarama is a free to use color generation app and it is my first solo project and is completely offline-friendly. It was created in Python using TKinter, and Pyinstaller to create the application. I designed this so that people didn't have to spend their hard earned money on some colors. I'm quite excited about the first release and I can hope sooner or later we can make it better.
 
 Unlike other color-generating tools such as [coolors.co](https://coolors.co), Chromarama is a completely free and user-friendly app. Because of the fact that its lightweight, accessible, and offline-friendly design, it is a wonderful subsitute for people who like to design apps, design mods or even just like the sight of good colors! 
 
