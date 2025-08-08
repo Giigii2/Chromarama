@@ -9,7 +9,7 @@ I can't wait to share this **first real app** with the community. I hope it is v
 ## ✨ Features
 - Random and gradient color generation
 - Lock, reorder, and copy hex codes
-- Export palette to PNG
+- Export palettes to JSON files for sharing.
 - 13 different modes for you to choose from!
 - Fullscreen toggle
 - Built with Python and Tkinter
